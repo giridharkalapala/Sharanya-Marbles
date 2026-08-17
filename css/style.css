@@ -2484,7 +2484,7 @@ header#pq-header.pq-header-style-1 .pq-top-header.top-style-1 {
 
 header#pq-header.pq-header-style-1 .pq-bottom-header {
 	padding: 0 45px;
-	background: var(--grey-color);
+	background: white;
 }
 
 header#pq-header.pq-header-style-1 .pq-bottom-header .navbar .navbar-nav {
